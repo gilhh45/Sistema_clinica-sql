@@ -11,7 +11,7 @@ Projeto acadêmico desenvolvido no 4º período de Sistemas de Informação (Uni
 * Modelagem de Dados (DER)
 
 ## 📋 Funcionalidades Implementadas
-* **Modelagem:** Criação de tabelas relacionais (Médicos, Pacientes, Consultas, Convênios).
+* **Modelagem:** Criação de tabelas relacionais (Médicos, Pacientes, Consultas, Convênios, Pagamentos, Especialidades).
 * **Segurança:** Script de criação de usuários e definição de privilégios (GRANT/REVOKE).
 * **Consultas (Queries):** Relatórios utilizando `INNER JOIN`, `GROUP BY`, `ORDER BY` e funções de agregação.
 
